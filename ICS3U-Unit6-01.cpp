@@ -28,5 +28,5 @@ int main() {
     std::cout << "" << std::endl;
     std::cout << "The average is " << average << "" << std::endl;
 
-    std::cout << "\n.Done" << std::endl;
+    std::cout << "\nDone." << std::endl;
 }
