@@ -1,6 +1,6 @@
-// Copyright (c) 2022 Kyanh Pham
+// Copyright (c) 2022 Emmanuel fofeyin
 //
-// Created by: Kyanh Pham
+// Created by: Emmanuel Fofeyin
 // Created on: Dec 2022
 // This program finds the average of 10 random numbers
 
